@@ -1,0 +1,9 @@
+.container {
+    max-width: 800px;
+    max-height: 100px;
+    margin: 40px 50px 75px 200px;
+  }
+  .plyr {
+    border-radius: 4px;
+    margin-bottom: 15px;
+  }

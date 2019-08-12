@@ -13,6 +13,9 @@ function Login() {
                 <form>
                     <input type="text" id="userid" class="fadeIn second" name="login" placeholder="User Name"></input>
                     <input type="text" id="password" class="fadeIn third" name="login" placeholder="Password"></input>
+                    <br/>
+                    <a class="underlineHover" href="./signup.js">Forgot Password?</a><span> </span>
+			        <a class="underlineHover" href="signup.js">Sign Up</a>
 		
 		        </form>
                
